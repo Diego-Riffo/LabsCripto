@@ -10,5 +10,5 @@ pip install webdriver-manager
 * En la página de EU hay un captcha cada vez que uno se loguea.
 * En la página CL para restablecer contraseña se necesita la contraseña que se manda al email.
 
-## Problemas en el Lab 😪
+## Problemas en el Lab 😠
 * En las máquinas virtuales del laboratorio no se puede ejecutar ubuntu ubuntu.
