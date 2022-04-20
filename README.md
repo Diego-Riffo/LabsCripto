@@ -5,7 +5,6 @@ En este repositorios se podrán encontrar los laboratorios de CRIPTOGRAFÍA Y SE
 ```
 pip install selenium
 pip install webdriver-manager
-
 ```
 ## Problemas en la ejecución 😪
 * En la página de EU hay un captcha cada vez que uno se loguea.
