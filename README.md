@@ -3,6 +3,7 @@ En este repositorios se podrán encontrar los laboratorios de CRIPTOGRAFÍA Y SE
 
 ## Pre-requisitos 📋
 ```
+python
 pip install selenium
 pip install webdriver-manager
 ```
